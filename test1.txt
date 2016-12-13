@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-this is my new file first filethis is my second project 
-this is my second project branch 
-=======
-this is my new file second repository
->>>>>>> 8c1dccc7ea17557651b7e588f3c30569b10c0a15
+1
+2
+3
+4
+5
+6
