@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my second file  new this is my second project branch 
+=======
+this is my second file new jar filr in clone repository
+>>>>>>> 8c1dccc7ea17557651b7e588f3c30569b10c0a15
